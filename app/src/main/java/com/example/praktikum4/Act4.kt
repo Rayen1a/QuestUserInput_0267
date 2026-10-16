@@ -1,12 +1,9 @@
 package com.example.praktikum4
 
-
-import androidx.compose.runtime.Composable
-
-import androidx.compose.ui.Modifier
-
-
-@Composable
-fun FormDataDiri(modifier: Modifier){
-
-}
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
